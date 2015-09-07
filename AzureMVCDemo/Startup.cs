@@ -9,6 +9,7 @@ namespace AzureMVCDemo
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //test commit
         }
     }
 }
